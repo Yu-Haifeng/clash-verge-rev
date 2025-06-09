@@ -28,19 +28,6 @@
   "productName": "Clash Verge",
   "identifier": "io.github.clash-verge-rev.clash-verge-rev",
   "plugins": {
-    "updater": {
-      "endpoints": [
-        "https://download.clashverge.dev/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-proxy.json",
-        "https://gh-proxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-proxy.json",
-        "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update.json",
-        "https://download.clashverge.dev/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater-alpha/update-alpha-proxy.json",
-        "https://gh-proxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater-alpha/update-alpha-proxy.json",
-        "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater-alpha/update-alpha.json"
-      ],
-      "windows": {
-        "installMode": "basicUi"
-      }
-    },
     "deep-link": {
       "desktop": {
         "schemes": ["clash", "clash-verge"]
