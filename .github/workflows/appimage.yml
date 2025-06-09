@@ -8,6 +8,7 @@ on:
     # 应当限制在 main 分支上触发发布。
     branches:
       - linux-appimage
+  workflow_dispatch:
 env:
   CARGO_INCREMENTAL: 0
   RUST_BACKTRACE: short
@@ -72,7 +73,7 @@ jobs:
           releaseBody: "More new features are now supported."
           tauriScript: pnpm
           args: --target x86_64-unknown-linux-gnu
-          
+
       - name: Upload AppImage
         uses: softprops/action-gh-release@v2
         with:
