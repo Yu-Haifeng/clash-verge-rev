@@ -35,7 +35,7 @@
   "identifier": "io.github.clash-verge-rev.clash-verge-rev",
   "plugins": {
     "updater": {
-      "pubkey": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA6OWGKUPqy4g+/K2yIDtHf8eNcWzkDDPLyonYBHubmWToLTzafs6USoBhzASeDD2/Pt4CEmXT4fbAm0iMC0unPWtf2RC7NheTwPzarZabBDAGlxoAcCbpj+hVC8JsHxtpkhEOuXkzFQO0ct3/fr2HQKmq31uGkpLoNZmPNEF6VAMKJVO25IsOOg35fzmhX0Z6/FuL4GMxDL9KAxY80T4QWDrx9EmKK9Qc/sbJ2iK3RBhzYRam0Hkm4+OwuEC7zrxtLRaOOJG6Vp9tt7dU40l2fn+Im9leZ5Q0mG/XMwcYuX4n6xEdutidPUriZnlBf4qS/IgEUTT/qz6tsYlEnlTVmBawD6uxPVLGOW29NP+8tC2sQtcyFmAvHdQ0/lQKsIcTjtm2nHE8i4QxL7w/vmxSNNAn0E+QJfgXRwF+MbIvaJcGgpX1l+1qF5PyEXB3arE5aoCiqrrByLkYIv5Npx6pz6dZcBNlanNtQ2Davj/guWiuRS7dONPDOf9FTZXa3PLWadUNp2CkLJANA+GXLsfFtM+mhscuJNBRK1GUKrrF/FZ3FMbD2TaIa+AGI//W8d34/KlWNmWYeSk4MSL+WK9cf2Bd3WtJl0eXzNHYkQYHyProGuOd5qVD/FByKDMcVMjoAIZerxark5HY3rTN/x3Ak4xIsxFoO407GFrxdkrrd28CAwEAAQ==",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDNFNUJBMkI4QkQ1RDA0QTcKUldTbkJGMjl1S0piUG1Bb3MyR09wSWJWRG1GYzErdGtCWG9OVkYxUzlhRUV3aVR5N2szSWpDZjkK",
       "endpoints": [
         "https://download.clashverge.dev/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-proxy.json",
         "https://gh-proxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-proxy.json",
